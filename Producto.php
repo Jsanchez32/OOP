@@ -50,6 +50,7 @@ error_reporting(E_ALL);
         }
 
 
+        
 
         public function setNombre($nombre){
             return $this->$nombre = $nombre;
